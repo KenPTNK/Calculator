@@ -1,0 +1,22 @@
+.mainContainer{
+    background-color: aqua;
+    padding: 0% 100% 100% 0%;
+    display: flex;
+}
+.hehe{
+    margin: 50px;
+    padding: 20px;
+    align-items: center;
+    color: red;
+    font-size: 100px;
+}
+.container{
+    background-color: white;
+    border: 1px solid black;
+}
+p{
+    text-align: center;
+}
+input{
+    text-align: center;
+}
